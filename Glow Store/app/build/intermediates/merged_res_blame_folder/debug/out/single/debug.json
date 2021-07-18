@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_oilymatte.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\oilymatte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hubungi_admin.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_hubungi_admin.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_spottreatment.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_spottreatment.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pengiriman.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_pengiriman.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_produk.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_produk.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_account.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-hdpi\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_foto_user.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_foto_user.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_beauty_drink.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\beauty_drink.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dark_spot.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\dark_spot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bluesquare.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\bluesquare.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xhdpi\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bodycare.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_bodycare.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lifting_serum.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\lifting_serum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_agne_serum2.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\agne_serum2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_black.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_star_black.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jj_glow.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\jj_glow.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pesanan.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_pesanan.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_feed.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xhdpi\\ic_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_notification.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-anydpi\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toner_glowing.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\toner_glowing.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_serum.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_serum.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_serum.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_serum.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profil.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_selesai.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_selesai.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wa.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_wa.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hubungi_admin.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_hubungi_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_radiance_jelly.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\radiance_jelly.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_feed.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-hdpi\\ic_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cosmetic.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_cosmetic.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_store_black.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_store_black.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_account.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-mdpi\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shine_natural.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\shine_natural.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_deep_essence.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\deep_essence.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_jelly.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\red_jelly.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paketacne.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\paketacne.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-mdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whitening_goldserum.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\whitening_goldserum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ultramoist.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ultramoist.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_search.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-v24\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_header.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\design_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lightbluesquare.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\lightbluesquare.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ubah_profil.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_ubah_profil.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_inbox.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_inbox.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cari.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_cari.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bluebox.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\bluebox.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hapus.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_hapus.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_favorite.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_transaksi.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_transaksi.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_favorite.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-v24\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ig.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_ig.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cart_outline.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cart_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_stok_produk.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_stok_produk.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_luminous_serum.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\luminous_serum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_darkspot.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\darkspot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pengaturan.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_pengaturan.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumbnail_peeling_serum.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\thumbnail_peeling_serum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_menu.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-v24\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xxhdpi\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paketwhitening.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\paketwhitening.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_feed.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-mdpi\\ic_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_login.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_login.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_riwayat.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_riwayat.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_setting.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_whitening_nightcream.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\whitening_nightcream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_spot_treatment.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_spot_treatment.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_acnenight.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\acnenight.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_cart_outline.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-anydpi\\ic_cart_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_easy_bright.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\easy_bright.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_transaksi.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_transaksi.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_acnetoner.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\acnetoner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_web.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_web.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line_divider.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\line_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paketultimate.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\paketultimate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_search.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-anydpi\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_header.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\main_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cosmetic.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_cosmetic.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_account.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-v24\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_soon.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_soon.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ubah_profil.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_ubah_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_store.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-v24\\ic_store.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cart_outline.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-mdpi\\ic_cart_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_box.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\search_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_juice_moisturizer.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\juice_moisturizer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_easy_white.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\easy_white.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_acne_spot.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\acne_spot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_acnespot.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\acnespot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_star_half_black.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_star_half_black.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ultimate_nightcream.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ultimate_nightcream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cart_outline.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-hdpi\\ic_cart_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_store.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_store.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glammatte.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\glammatte.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_serum.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\eye_serum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pesanan_selesai.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_pesanan_selesai.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bodycare.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_bodycare.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_menu.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-anydpi\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_feed.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-anydpi\\ic_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_square.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\button_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_inbox.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-v24\\ic_inbox.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_home.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-v24\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cart_outline.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xhdpi\\ic_cart_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_search_box.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-v24\\search_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_balmjuice.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\balmjuice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_produk.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_edit_produk.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ms_slim.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ms_slim.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pesanan_masuk.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_pesanan_masuk.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_square.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\square.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pore_away.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\pore_away.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_day_cream.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\day_cream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paketluminous.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\paketluminous.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logout.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registrasi.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_registrasi.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_skincare.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_skincare.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_feed.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xxhdpi\\ic_feed.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_skincare.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_skincare.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_paket.xml.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\layout\\activity_paket.xml"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pengiriman.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_pengiriman.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_paket.png.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\ic_paket.png"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.jpeg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\background.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poreaway.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\poreaway.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_luminous_nightcream.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\luminous_nightcream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facial_wash.jpg.flat",
+        "source": "C:\\Users\\DADANG SILVIANTO\\Desktop\\Glow Store\\app\\src\\main\\res\\drawable\\facial_wash.jpg"
+    }
+]

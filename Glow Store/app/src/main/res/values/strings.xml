@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Glow Store</string>
+    <string-array name="fan_labels">
+        <item>FAVORITE</item>
+        <item>OFFICIAL STORE</item>
+        <item>INBOX</item>
+    </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.glowstore">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".activities.edit_produk" />
+        <activity android:name=".activities.stok_produk" />
+        <activity android:name=".activities.pesanan_selesai" />
+        <activity android:name=".activities.pesanan_masuk" />
+        <activity android:name=".activities.admin" />
+        <activity android:name=".activities.pengaturan" />
+        <activity android:name=".activities.hubungi_admin" />
+        <activity android:name=".activities.ubah_profil" />
+        <activity android:name=".activities.pengiriman" />
+        <activity android:name=".activities.transaksi" />
+        <activity android:name=".activities.paket" />
+        <activity android:name=".activities.spot_treatment" />
+        <activity android:name=".activities.serum" />
+        <activity android:name=".activities.cosmetic" />
+        <activity android:name=".activities.bodycare" />
+        <activity android:name=".activities.skincare" />
+        <activity android:name=".activities.login" />
+        <activity android:name=".activities.registrasi" />
+        <activity android:name=".activities.profil" />
+        <activity android:name=".activities.MainActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

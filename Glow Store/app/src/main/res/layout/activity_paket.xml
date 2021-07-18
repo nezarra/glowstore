@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical"
+    tools:context=".activities.paket">
+
+    //TOOLBAR
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="?attr/colorPrimary"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+            //GLOW STORE
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Glow Store"
+                android:textColor="@color/colorWhite"
+                android:textSize="19dp"
+                android:textStyle="bold" />
+
+            //SPACE
+            <RelativeLayout
+                android:layout_width="10dp"
+                android:layout_height="match_parent"/>
+
+            //SEARCH BAR
+            <RelativeLayout
+                android:id="@+id/mainactivityRelativeLayout1"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:background="@drawable/search_box"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:padding="5dp">
+
+                <EditText
+                    android:id="@+id/search_box"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:drawableStart="@drawable/ic_cari"
+                    android:drawableTint="@color/colorPrimary"
+                    android:ems="10"
+                    android:hint="  Cari Apa?"
+                    android:nextFocusLeft="@id/search_box"
+                    android:nextFocusUp="@id/search_box"
+                    android:singleLine="true"
+                    android:textColorHint="@color/colorPrimary"
+                    android:textSize="18sp"
+                    android:textColor="@color/colorBlack"
+                    android:inputType="textPersonName"/>
+
+            </RelativeLayout>
+
+            //SPACE
+            <RelativeLayout
+                android:layout_width="10dp"
+                android:layout_height="match_parent"/>
+
+
+        </androidx.appcompat.widget.Toolbar>
+
+    </LinearLayout>
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                //CONTENT
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="100dp"
+                        android:background="@drawable/shape"
+                        android:gravity="center"
+                        android:orientation="vertical" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="10dp"
+                            android:layout_height="40dp"/>
+
+                        //PAKET
+                        <GridLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/square"
+                            android:layout_marginLeft="30dp"
+                            android:layout_marginRight="30dp"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="20dp"
+                                android:layout_marginTop="20dp"
+                                android:text="Paket"
+                                android:textStyle="bold"
+                                android:textSize="25dp"
+                                android:textColor="@color/colorPrimary"/>
+
+                            //PRODUK
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="left"
+                                android:padding="30dp"
+                                android:orientation="horizontal">
+
+                                <ImageView
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:src="@drawable/paketwhitening" />
+
+                                //Deskripsi
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical">
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="Paket whitening"
+                                        android:textStyle="bold"
+                                        android:textColor="@color/colorBlack"
+                                        android:textSize="15dp"/>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="300000"
+                                        android:textColor="@color/colorRed"
+                                        android:textSize="10dp"/>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="Diformulasikan khusus untuk kulit normal, merawat dan mencerahkan."
+                                        android:textColor="@color/colorBlack"
+                                        android:textSize="10dp"/>
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                            //PRODUK
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="left"
+                                android:padding="30dp"
+                                android:orientation="horizontal">
+
+                                <ImageView
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:src="@drawable/paketacne" />
+
+                                //Deskripsi
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical">
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="Paket Acne"
+                                        android:textStyle="bold"
+                                        android:textColor="@color/colorBlack"
+                                        android:textSize="15dp"/>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="300000"
+                                        android:textColor="@color/colorRed"
+                                        android:textSize="10dp"/>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="Diformulasikan khusus untuk kulit wajah berjerawat dan berminyak."
+                                        android:textColor="@color/colorBlack"
+                                        android:textSize="10dp"/>
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                            //PRODUK
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="left"
+                                android:padding="30dp"
+                                android:orientation="horizontal">
+
+                                <ImageView
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:src="@drawable/paketultimate" />
+
+                                //Deskripsi
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical">
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="Paket Ultimate"
+                                        android:textStyle="bold"
+                                        android:textColor="@color/colorBlack"
+                                        android:textSize="15dp"/>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="300000"
+                                        android:textColor="@color/colorRed"
+                                        android:textSize="10dp"/>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="Diformulasikan khusus untuk kulit wajah berflek, penuaan dan pigmentasi."
+                                        android:textColor="@color/colorBlack"
+                                        android:textSize="10dp"/>
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                            //PRODUK
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="left"
+                                android:padding="30dp"
+                                android:orientation="horizontal">
+
+                                <ImageView
+                                    android:layout_width="50dp"
+                                    android:layout_height="50dp"
+                                    android:src="@drawable/paketluminous" />
+
+                                //Deskripsi
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical">
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="Paket Luminous"
+                                        android:textStyle="bold"
+                                        android:textColor="@color/colorBlack"
+                                        android:textSize="15dp"/>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="300000"
+                                        android:textColor="@color/colorRed"
+                                        android:textSize="10dp"/>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="20dp"
+                                        android:text="Diformulasikan khusus untuk melawan hyperpigmentasi, perbaiki tekstur kulit."
+                                        android:textColor="@color/colorBlack"
+                                        android:textSize="10dp"/>
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                        </GridLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="30dp"/>
+
+                        //PENUTUP
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="50dp"/>
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </androidx.core.widget.NestedScrollView>
+
+        <com.google.android.material.bottomappbar.BottomAppBar
+            android:id="@+id/navigation"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="bottom"
+            android:backgroundTint="@color/colorPrimary"
+            app:fabAlignmentMode="center"
+            app:fabCradleRoundedCornerRadius="50dp"
+            app:hideOnScroll="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="55.0dip"
+                android:layout_gravity="bottom"
+                android:orientation="horizontal">
+
+                //NAVIGATION BAR
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:layout_width="fill_parent"
+                    android:layout_height="55.0dip"
+                    android:orientation="horizontal">
+
+                    //HOME
+                    <LinearLayout
+                        android:id="@+id/home"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center"
+                        android:layout_weight="1.0"
+                        android:layout_marginTop="2dp"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:tint="@color/colorWhite"
+                            android:layout_width="36.0dip"
+                            android:layout_height="36.0dip"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/ic_home" />
+
+                        <TextView
+                            android:text="Home"
+                            android:layout_gravity="center"
+                            android:textSize="10sp"
+                            android:textColor="@color/colorWhite"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"/>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="0.0dip"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_weight="1.0"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:visibility="invisible" />
+
+                    //PROFIL
+                    <LinearLayout
+                        android:id="@+id/profil"
+                        android:layout_width="0.0dip"
+                        android:layout_height="fill_parent"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="3.0dip"
+                        android:layout_weight="1.0"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:tint="@color/colorWhite"
+                            android:layout_width="34.0dip"
+                            android:layout_height="34.0dip"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/ic_account" />
+
+                        <TextView
+                            android:text="Konsultasi"
+                            android:layout_gravity="center"
+                            android:textSize="10sp"
+                            android:textColor="@color/colorWhite"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </com.google.android.material.bottomappbar.BottomAppBar>
+
+        //MENU
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:elevation="4dp"
+            android:tint="@android:color/white"
+            app:fabSize="normal"
+            app:layout_anchor="@+id/navigation"
+            app:srcCompat="@drawable/ic_menu" />
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</LinearLayout>

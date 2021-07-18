@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.azhar.myshop"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true" >
+        <activity android:name="com.example.glowstore.activities.edit_produk" />
+        <activity android:name="com.example.glowstore.activities.stok_produk" />
+        <activity android:name="com.example.glowstore.activities.pesanan_selesai" />
+        <activity android:name="com.example.glowstore.activities.pesanan_masuk" />
+        <activity android:name="com.example.glowstore.activities.admin" />
+        <activity android:name="com.example.glowstore.activities.pengaturan" />
+        <activity android:name="com.example.glowstore.activities.hubungi_admin" />
+        <activity android:name="com.example.glowstore.activities.ubah_profil" />
+        <activity android:name="com.example.glowstore.activities.pengiriman" />
+        <activity android:name="com.example.glowstore.activities.transaksi" />
+        <activity android:name="com.example.glowstore.activities.paket" />
+        <activity android:name="com.example.glowstore.activities.spot_treatment" />
+        <activity android:name="com.example.glowstore.activities.serum" />
+        <activity android:name="com.example.glowstore.activities.cosmetic" />
+        <activity android:name="com.example.glowstore.activities.bodycare" />
+        <activity android:name="com.example.glowstore.activities.skincare" />
+        <activity android:name="com.example.glowstore.activities.login" />
+        <activity android:name="com.example.glowstore.activities.registrasi" />
+        <activity android:name="com.example.glowstore.activities.profil" />
+        <activity android:name="com.example.glowstore.activities.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
